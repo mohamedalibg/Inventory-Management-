@@ -1,0 +1,33 @@
+Monthly Report for 12/2023
+-----------------------
+
+No sales data available for the month.
+
+Total Number of Transactions: 0
+Total Revenue of the Month: 12/2023 is  0.0 TND
+Total Purchases of the Month: 12/2023 is  36.0 TND
+Net Profit of the Month: 12/2023 is  -36.0 TND
+======================
+
+
+
+Yearly Report for 2023
+-----------------------
+
+Best Seller of the Year:
+Product ID: 1151
+Product Name: cranberries
+Quantity Sold: 39
+
+Total Number of Transactions: 7
+Total Revenue of the Year: 2023 is  530.25 TND
+Total Purchases of the year: 2023 is  506.75 TND
+Net Profit of the year: 2023 is  23.5 TND
+======================
+
+
+
+======================
+
+
+

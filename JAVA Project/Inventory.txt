@@ -1,0 +1,50 @@
+1111,chips,15,3.125,snacks
+1112,cookies,20,2.5,desserts
+1113,pretzels,10,1.75,snacks
+1114,crackers,12,2.0,snacks
+1115,chocolate,18,4.25,desserts
+1116,bananas,30,1.0,fruits
+1117,ice cream,25,3.75,desserts
+1118,apple juice,22,2.25,drinks
+1119,carrots,28,1.5,vegetables
+1120,yogurt,16,2.75,dairy
+1121,grapes,35,2.0,fruits
+1122,cake,8,5.0,desserts
+1123,corn chips,17,2.25,snacks
+1124,orange juice,24,2.75,drinks
+1125,strawberries,40,3.5,fruits
+1126,cheese,14,4.0,dairy
+1127,lemonade,21,2.0,drinks
+1128,watermelon,32,3.25,fruits
+1129,cucumber,11,1.25,vegetables
+1130,bread,19,2.75,grains
+1131,popcorn,23,2.25,snacks
+1132,milk,27,3.0,dairy
+1133,blueberries,38,4.5,fruits
+1134,celery,13,1.75,vegetables
+1135,tea,26,2.5,drinks
+1136,peaches,29,3.0,fruits
+1137,energy bar,9,2.25,snacks
+1138,avocado,36,2.75,fruits
+1139,spinach,7,1.0,vegetables
+1140,coffee,18,3.25,drinks
+1141,muffins,31,2.75,desserts
+1142,pineapple,42,3.75,fruits
+1143,olives,10,1.5,snacks
+1144,smoothie,25,4.0,drinks
+1145,water,20,1.0,drinks
+1146,rice cakes,14,2.25,grains
+1147,hummus,33,2.75,snacks
+1148,pear,23,2.25,fruits
+1149,granola bar,12,2.0,snacks
+1150,plums,28,3.25,fruits
+1151,cranberries,39,4.0,fruits
+1152,potato chips,16,2.5,snacks
+1153,tomatoes,9,1.75,vegetables
+1154,soda,22,1.25,drinks
+1155,blackberries,37,3.5,fruits
+1156,lettuce,15,1.75,vegetables
+1157,protein bar,30,3.0,snacks
+1158,kiwi,19,2.75,fruits
+1159,pasta,26,2.25,grains
+1160,cookies,35,3.5,desserts

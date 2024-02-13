@@ -1,0 +1,4 @@
+111,med ali,Bg123*,inventoryManager 
+112,skander,Sr123*,inventoryManager
+211,omar,Om123*,biemployee
+311,ahmed,Ah123*,admin 
